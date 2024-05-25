@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body {
+    background-color: #adff2f;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: #589c19;
+}
+h1#titulo_principal {
+    text-align: center;
+    background-color: #589c19;
+    color: white;
+}
+h2 {
+    color: #456613;
+}
+.css {
+    background-color: white;
+    text-align: center;
+}
+nav { 
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+}
